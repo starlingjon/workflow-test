@@ -4,6 +4,6 @@ yay!
 
 more text
 
-oh look, it's yet more text!
+oh look, it's yet more text that has now been amended!
 
 this line was added directly to development
