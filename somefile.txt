@@ -10,6 +10,6 @@ isn't that neat
 
 this is an addition
 
-this is some text that was added by request of the reviewer
+this is some text that has just been modified on dev
 
 and another new line, hooray!
