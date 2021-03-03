@@ -2,5 +2,4 @@ this is a file
 
 with text in it
 
-// TODO don't use ain't, your mother will faint
-ain't that neat
+isn't that neat
