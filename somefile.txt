@@ -4,6 +4,8 @@ this is a file
 
 with text contained within it
 
+including text added in t8
+
 isn't that neat
 
 this is an addition
