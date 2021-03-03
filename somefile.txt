@@ -1,3 +1,5 @@
+this is the new first line!
+
 this is a file
 
 with text in it
