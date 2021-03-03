@@ -1,5 +1,0 @@
-this file was created for t5
-
-this is some contents for the file
-
-this file is being edited in t9-sub2
